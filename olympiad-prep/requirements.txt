@@ -4,4 +4,5 @@ pandas
 plotly
 openpyxl
 xlsxwriter
+matplotlib
 python-dotenv  # for managing keys later
